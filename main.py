@@ -45,7 +45,7 @@ def go(url, hdr=None):
 if __name__ == '__main__':
     import sys
     if len(sys.argv) < 2:
-        print('usage: py reactsu.py url')
+        print('usage: py main.py url')
         sys.exit(1)
     u = sys.argv[1]
     res = go(u)
