@@ -6,5 +6,5 @@ git clone https://github.com/0x204/bypass-reactlabs
 cd bypass-reactlabs
 python main.py <url>
 example:
-python main.py https://radmir.online/
+python main.py https://radmir.online
 ```
